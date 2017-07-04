@@ -1,0 +1,8 @@
+
+<resources>
+    <string name="app_name">Github</string>
+    <string name="search">Buscar</string>
+    <string name="error_message">
+        Resultado no encontrado. Intente otra vez.
+    </string>
+</resources>

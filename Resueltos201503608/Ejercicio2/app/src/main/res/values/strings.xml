@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GITHUB </string>
+    <string name="search">SEARCH</string>
+    <string name="error_message">
+        Error en la busqueda. Intente de nuevo porfavor
+    </string>
+</resources>
